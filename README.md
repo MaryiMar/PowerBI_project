@@ -3,12 +3,16 @@ Bicycle Accidents in Brno
 
 ## Overview
 This Power BI project provides an in-depth analysis of bicycle accidents in Brno spanning the years 2010 to 2020. It aims to shed light on key trends and insights related to bicycle accidents in the city. 
+
+## Prerequisites
+Before using this Power BI project, ensure you have the following prerequisites:
+
+Power BI Desktop - https://powerbi.microsoft.com/en-us/desktop/
+
 ## Installation
 Clone this repository to your local machine or download the project files.
 
 Open the Power BI project file (PowerBI_project.pbix) using Power BI Desktop.
-
-Connect the project to your bicycle accidents dataset.
 
 Explore the data and visualizations in Power BI.
 
@@ -32,6 +36,8 @@ Age and gender distribution of cyclists involved in accidents.
 ![2](https://github.com/MaryiMar/PowerBI_project/assets/137822835/687f150d-3032-4a6c-b807-100294d9fecd)
 
 Severity analysis by accident type.
+
+
 
 
 ## Contact Information
