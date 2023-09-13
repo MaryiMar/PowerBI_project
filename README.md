@@ -27,13 +27,13 @@ The data for this analysis was sourced from [https://data.gov.cz/datov%C3%A1-sad
 Please note any restrictions or usage guidelines associated with this data.
 
 ## Features
-Time series analysis of bicycle accidents.
+Time series analysis of bicycle accidents:
 ![1](https://github.com/MaryiMar/PowerBI_project/assets/137822835/1e13879f-0bae-4ad4-8f17-3ca12d405ac4)
 
-Geographic mapping of accident locations.
+Geographic mapping of accident locations:
 ![3](https://github.com/MaryiMar/PowerBI_project/assets/137822835/fa7db057-4aa9-4f11-b841-11e6886f68a1)
 
-Age and gender distribution of cyclists involved in accidents.
+Age and gender distribution of cyclists involved in accidents:
 ![2](https://github.com/MaryiMar/PowerBI_project/assets/137822835/687f150d-3032-4a6c-b807-100294d9fecd)
 
 Severity analysis by accident type.
